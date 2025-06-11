@@ -1,0 +1,9 @@
+{
+  "canvases": [
+    {
+      "name": "headless-nextjs-blank",
+      "description": "Blank Next.js Canvas for Blutui Headless",
+      "URL": "https://github.com/blutui/blueprint-nextjs-blank"
+    }
+  ]
+}

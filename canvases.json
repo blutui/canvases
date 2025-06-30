@@ -11,6 +11,11 @@
       "URL": "https://github.com/blutui/blueprint-blutui-tailwindcss"
     },
     {
+      "name": "tailwindcss-js",
+      "description": "Bare bones Canvas with Tailwind CSS + Parcel.js for Blutui",
+      "URL": "https://github.com/blutui/blueprint-blutui-tailwindcss-js"
+    },
+    {
       "name": "headless-nextjs-blank",
       "description": "Blank Next.js Canvas for Blutui Headless",
       "URL": "https://github.com/blutui/blueprint-nextjs-blank"
